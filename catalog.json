@@ -159,6 +159,6 @@
     "name": "LENOVO THINKPAD L13 GEN 2 AMD 203088-3",
     "filename": "LENOVO_THINKPAD_L13_GEN2_AMD_203088-3.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_THINKPAD_L13_GEN2_AMD_203088-3.brd",
-    "description": "Lenovo Laptop Motherboard"
+    "description": "Lenovo Laptop Motherboard (no BOM)"
    }
 ]
