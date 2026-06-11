@@ -160,5 +160,11 @@
     "filename": "LENOVO_THINKPAD_L13_GEN2_AMD_203088-3.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_THINKPAD_L13_GEN2_AMD_203088-3.brd",
     "description": "Lenovo Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "APPLE MACBOOK PRO A2918 820-02757-06",
+    "filename": "APPLE_MACBOOK_PRO_A2918_820-02757-06.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_PRO_A2918_820-02757-06.brd",
+    "description": "Apple Laptop Motherboard (no BOM)"
    }
 ]
