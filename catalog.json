@@ -154,5 +154,11 @@
     "filename": "SONY_SVF153_DAHKDAMB6A0_REV_1A.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SONY_SVF153_DAHKDAMB6A0_REV_1A.brd",
     "description": "SONY Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "LENOVO THINKPAD L13 GEN 2 AMD 203088-3",
+    "filename": "LENOVO_THINKPAD_L13_GEN2_AMD_203088-3.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_THINKPAD_L13_GEN2_AMD_203088-3.brd",
+    "description": "Lenovo Laptop Motherboard"
    }
 ]
