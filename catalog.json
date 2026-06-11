@@ -250,6 +250,12 @@
     "filename": "ACER_NITRO_V15_ANV15-51_QUANTA_ZYP_DA0ZYPMBAE0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_NITRO_V15_ANV15-51_QUANTA_ZYP_DA0ZYPMBAE0.cad",
     "description": "Acer Laptop Motherboard"
+   },
+   {
+    "name": "ASUS VIVOBOOK M1502YA REV 2.0",
+    "filename": "ASUS_VIVOBOOK_M1502YA_REV_2.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_VIVOBOOK_M1502YA_REV_2.0.cad",
+    "description": "ASUS Laptop Motherboard"
    }
   
 ]
