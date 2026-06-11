@@ -220,6 +220,12 @@
     "filename": "APPLE_MACBOOK_PRO_A1989_820-00850_A.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_PRO_A1989_820-00850_A.brd",
     "description": "Apple Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "SONY MBX-248 HK1 REV-C",
+    "filename": "SONY_MBX-248_HK1_REV-C.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SONY_MBX-248_HK1_REV-C.brd",
+    "description": "Sony Laptop Motherboard (no BOM)"
    }
   
 ]
