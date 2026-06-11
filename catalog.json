@@ -10,5 +10,12 @@
     "filename": "ASROCK_Z97M_Pro4_R1.01_70-MXGUD2-A01_BOARDVIEW_BDV.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_Z97M_Pro4_R1.01_70-MXGUD2-A01_BOARDVIEW_BDV.fz",
     "description": "ASRock Motherboard Desktop"
+  },
+  {
+    "name": "ASUS AM1I-A 1.01",
+    "filename": "ASUS AM1I-A 1.01A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS AM1I-A 1.01A.fz",
+    "description": "ASUS Motherboard Desktop"
   }
+  
 ]
