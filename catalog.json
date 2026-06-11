@@ -118,5 +118,11 @@
     "filename": "MAIBENBEN_P527_GH5AD2D_V1.0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MAIBENBEN_P527_GH5AD2D_V1.0.cad",
     "description": "Maibenben Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "MSI GF75 THIN MS-17F61 REV 1.0",
+    "filename": "MSI MS-17F61_r1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI MS-17F61_r1.0.cad",
+    "description": "MSI Laptop Motherboard"
   }
 ]
