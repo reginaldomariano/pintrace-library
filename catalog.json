@@ -286,6 +286,12 @@
     "filename": "HP_ELITEBOOK_850_G5_INVENTEC_COMPUTRO_6050A2945601-MB-A01.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_ELITEBOOK_850_G5_INVENTEC_COMPUTRO_6050A2945601-MB-A01.cad",
     "description": "HP Laptop Motherboard"
+   },
+   {
+    "name": "HP ELITE DRAGONFLY INVENTEC EMPIRE 6050A3074401-MB-A02",
+    "filename": "HP_ELITE_DRAGONFLY_INVENTEC_EMPIRE_6050A3074401-MB-A02.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_ELITE_DRAGONFLY_INVENTEC_EMPIRE_6050A3074401-MB-A02.cad",
+    "description": "HP Laptop Motherboard"
    }
   
 ]
