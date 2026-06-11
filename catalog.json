@@ -142,6 +142,12 @@
     "filename": "MSI_Z170A_GAMING_M5_MS-7977_REV_1.1.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_Z170A_GAMING_M5_MS-7977_REV_1.1.cad",
     "description": "MSI Motherboard Desktop"
+   },
+   {
+    "name": "ACER ASPIRE 5 NB2593 REV V2_A",
+    "filename": "ACER_ASPIRE_5_NB2593_PCB_MB_V2_A.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_ASPIRE_5_NB2593_PCB_MB_V2_A.cad",
+    "description": "Acer Laptop Motherboard"
    }
   
 ]
