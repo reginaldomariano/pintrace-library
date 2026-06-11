@@ -106,5 +106,11 @@
     "filename": "LENOVO COMPAL HLC3A LA-M091P r1.0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO COMPAL HLC3A LA-M091P r1.0.cad",
     "description": "Lenovo Laptop Motherboard"
+  },
+  {
+    "name": "ASUS ROG STRIX G512LI REV 2.0",
+    "filename": "ASUS_ROG_STRIX_G512LI_REV_2.0.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_ROG_STRIX_G512LI_REV_2.0.fz",
+    "description": "ASUS Laptop Motherboard"
   }
 ]
