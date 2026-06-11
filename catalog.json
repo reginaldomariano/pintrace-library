@@ -82,5 +82,11 @@
     "filename": "ASUS Z97M-PLUS REV 2.00.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS Z97M-PLUS REV 2.00.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS PRIME A520M-A II REV 1.01",
+    "filename": "ASUS PRIME A520M-A II r1.01.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS PRIME A520M-A II r1.01.cad",
+    "description": "ASUS Motherboard Desktop"
   }
 ]
