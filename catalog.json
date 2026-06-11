@@ -244,6 +244,12 @@
     "filename": "ACER_E5-475_QUANTA_Z8V_DAZ8VMB18D0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_E5-475_QUANTA_Z8V_DAZ8VMB18D0.cad",
     "description": "Acer Laptop Motherboard"
+   },
+   {
+    "name": "ACER NITRO V15 ANV15-51 QUANTA ZYP DA0ZYPMBAE0",
+    "filename": "ACER_NITRO_V15_ANV15-51_QUANTA_ZYP_DA0ZYPMBAE0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_NITRO_V15_ANV15-51_QUANTA_ZYP_DA0ZYPMBAE0.cad",
+    "description": "Acer Laptop Motherboard"
    }
   
 ]
