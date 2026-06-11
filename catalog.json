@@ -238,6 +238,12 @@
     "filename": "APPLE_MACBOOK_PRO_A3401_820-03400-A.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_PRO_A3401_820-03400-A.cad",
     "description": "Apple Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "ACER E5-475 QUANTA Z8V DAZ8VMB18D0",
+    "filename": "ACER_E5-475_QUANTA_Z8V_DAZ8VMB18D0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_E5-475_QUANTA_Z8V_DAZ8VMB18D0.cad",
+    "description": "Acer Laptop Motherboard"
    }
   
 ]
