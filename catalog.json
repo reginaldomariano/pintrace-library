@@ -166,5 +166,11 @@
     "filename": "APPLE_MACBOOK_PRO_A2918_820-02757-06.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_PRO_A2918_820-02757-06.brd",
     "description": "Apple Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "APPLE MACBOOK AIR A3114 820-03286",
+    "filename": "APPLE_MACBOOK_AIR_A3114_820-03286.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_AIR_A3114_820-03286.brd",
+    "description": "Apple Laptop Motherboard (no BOM)"
    }
 ]
