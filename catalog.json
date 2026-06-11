@@ -70,5 +70,11 @@
     "filename": "ASUS STRIX X370-I GAMING 1.02A.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS STRIX X370-I GAMING 1.02A.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS X1404ZA REV 3.0",
+    "filename": "ASUS X1404ZA r3.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS X1404ZA r3.0.cad",
+    "description": "ASUS Laptop Motherboard"
   }
 ]
