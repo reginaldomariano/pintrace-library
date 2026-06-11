@@ -280,6 +280,12 @@
     "filename": "DELL_INSPIRON_7548_QUANTA_AM6_DA0AM6MB8E0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_INSPIRON_7548_QUANTA_AM6_DA0AM6MB8E0.cad",
     "description": "Dell Laptop Motherboard (crash kron)"
+   },
+   {
+    "name": "HP ELITEBOOK 850 G5 INVENTEC COMPUTRO 6050A2945601-MB-A01",
+    "filename": "HP_ELITEBOOK_850_G5_INVENTEC_COMPUTRO_6050A2945601-MB-A01.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_ELITEBOOK_850_G5_INVENTEC_COMPUTRO_6050A2945601-MB-A01.cad",
+    "description": "HP Laptop Motherboard"
    }
   
 ]
