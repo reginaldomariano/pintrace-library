@@ -208,5 +208,11 @@
     "filename": "HP_PAVILION_X2_12-B_YB3B_DAYB3BMBAD0.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_PAVILION_X2_12-B_YB3B_DAYB3BMBAD0.brd",
     "description": "HP Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "LENOVO THINKPAD L14 GEN3 213039-1",
+    "filename": "LENOVO_THINKPAD_L14_GEN3_213039-1.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_THINKPAD_L14_GEN3_213039-1.brd",
+    "description": "Lenovo Laptop Motherboard (no BOM)"
    }
 ]
