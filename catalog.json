@@ -58,5 +58,11 @@
     "filename": "ASUS P8P67 REV 1.02A.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS P8P67 REV 1.02A.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS STRIX X370-F GAMING REV 1.03",
+    "filename": "ASUS STRIX X370-F GAMING 1.03.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS STRIX X370-F GAMING 1.03.fz",
+    "description": "ASUS Motherboard Desktop"
   }
 ]
