@@ -202,5 +202,11 @@
     "filename": "FUJITSU_LIFEBOOK_P3010_JR6_DA0JR6MB8F0.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/FUJITSU_LIFEBOOK_P3010_JR6_DA0JR6MB8F0.brd",
     "description": "Fujitsu Laptop Motherboard (no BOM)"
-   }  
+   },
+   {
+    "name": "HP PAVILION X2 12-B YB3B DAYB3BMBAD0",
+    "filename": "HP_PAVILION_X2_12-B_YB3B_DAYB3BMBAD0.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_PAVILION_X2_12-B_YB3B_DAYB3BMBAD0.brd",
+    "description": "HP Laptop Motherboard (no BOM)"
+   }
 ]
