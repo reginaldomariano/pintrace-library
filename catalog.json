@@ -34,6 +34,11 @@
     "filename": "ASUS H87I-PLUS  REV 1.02.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS H87I-PLUS  REV 1.02.fz",
     "description": "ASUS Motherboard Desktop"
+  },  
+  {
+    "name": "ASUS K51IO REV 2.0",
+    "filename": "ASUS K51IO REV 2.0.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS K51IO REV 2.0.fz",
+    "description": "ASUS Laptop Motherboard"
   }  
-  
 ]
