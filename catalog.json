@@ -214,6 +214,12 @@
     "filename": "LENOVO_THINKPAD_L14_GEN3_213039-1.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_THINKPAD_L14_GEN3_213039-1.brd",
     "description": "Lenovo Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "APPLE MACBOOK PRO A1989 820-00850-A",
+    "filename": "APPLE_MACBOOK_PRO_A1989_820-00850_A.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_PRO_A1989_820-00850_A.brd",
+    "description": "Apple Laptop Motherboard (no BOM)"
    }
   
 ]
