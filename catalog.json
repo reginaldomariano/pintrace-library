@@ -172,5 +172,11 @@
     "filename": "APPLE_MACBOOK_AIR_A3114_820-03286.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_AIR_A3114_820-03286.brd",
     "description": "Apple Laptop Motherboard (no BOM)"
-   }
+   },
+   {
+    "name": "ACER EXTENSA M2710 DA0ZR6MB6E0",
+    "filename": "ACER_EXTENSA_M2710_DA0ZR6MB6E0.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_EXTENSA_M2710_DA0ZR6MB6E0.brd",
+    "description": "Acer Motherboard Desktop"
+     }
 ]
