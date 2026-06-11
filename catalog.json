@@ -232,6 +232,12 @@
     "filename": "HP_PAVILION_DV6_QUANTA_ZK3.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_PAVILION_DV6_QUANTA_ZK3.brd",
     "description": "HP Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "APPLE MACBOOK PRO A3401 820-03400-A",
+    "filename": "APPLE_MACBOOK_PRO_A3401_820-03400-A.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_PRO_A3401_820-03400-A.cad",
+    "description": "Apple Laptop Motherboard (no BOM)"
    }
   
 ]
