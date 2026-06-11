@@ -52,5 +52,11 @@
     "filename": "ASUS P8P67_LE_1.03W.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS P8P67_LE_1.03W.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS P8P67 REV 1.02A",
+    "filename": "ASUS P8P67 REV 1.02A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS P8P67 REV 1.02A.fz",
+    "description": "ASUS Motherboard Desktop"
   }
 ]
