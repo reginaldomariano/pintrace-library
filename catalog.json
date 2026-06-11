@@ -64,5 +64,11 @@
     "filename": "ASUS STRIX X370-F GAMING 1.03.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS STRIX X370-F GAMING 1.03.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS STRIX X370-I GAMING REV 1.02A",
+    "filename": "ASUS STRIX X370-I GAMING 1.02A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS STRIX X370-I GAMING 1.02A.fz",
+    "description": "ASUS Motherboard Desktop"
   }
 ]
