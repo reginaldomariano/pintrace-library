@@ -46,5 +46,11 @@
     "filename": "K52JR_MAIN_BOARD_2.3A.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/K52JR_MAIN_BOARD_2.3A.fz",
     "description": "ASUS Laptop Motherboard"
+  },
+  {
+    "name": "ASUS P8P67 LE REV 1.03W",
+    "filename": "ASUS P8P67_LE_1.03W.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS P8P67_LE_1.03W.fz",
+    "description": "ASUS Motherboard Desktop"
   }
 ]
