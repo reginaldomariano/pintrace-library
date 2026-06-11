@@ -17,5 +17,11 @@
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS AM1I-A 1.01A.fz",
     "description": "ASUS Motherboard Desktop"
   }
+   {
+    "name": "ASUS B85M-G 1.01",
+    "filename": "ASUS B85M-G_1.01D.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS B85M-G_1.01D.fz",
+    "description": "ASUS Motherboard Desktop"
+  }
   
 ]
