@@ -136,6 +136,12 @@
     "filename": "MSI_Z97_GUARD-PRO_MS-7923_REV_1.0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_Z97_GUARD-PRO_MS-7923_REV_1.0.cad",
     "description": "MSI Motherboard Desktop"
-  }
+   },
+   {
+    "name": "MSI Z170A GAMING M5 MS-7977 REV 1.1",
+    "filename": "MSI_Z170A_GAMING_M5_MS-7977_REV_1.1.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_Z170A_GAMING_M5_MS-7977_REV_1.1.cad",
+    "description": "MSI Motherboard Desktop"
+   }
   
 ]
