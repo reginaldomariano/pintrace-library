@@ -27,8 +27,13 @@
     "name": "ASUS ET2232I ET2232IUK AiO Rev1.2",
     "filename": "ASUS ET2232I_ET2232IUK AiO Rev1.2.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS ET2232I_ET2232IUK AiO Rev1.2.fz",
-    "description": "All-in-One PC ET2321 board"
-  }
-  
+    "description": "ASUS All-in-One PC motherboard"
+  },
+  {
+    "name": "ASUS H87I-PLUS  REV 1.02",
+    "filename": "ASUS H87I-PLUS  REV 1.02.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS H87I-PLUS  REV 1.02.fz",
+    "description": "ASUS Motherboard Desktop"
+  }  
   
 ]
