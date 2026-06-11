@@ -196,6 +196,12 @@
     "filename": "APPLE_MACBOOK_AIR_A3113_820-03285.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/APPLE_MACBOOK_AIR_A3113_820-03285.brd",
     "description": "Apple Laptop Motherboard (no BOM)"
+   },
+   {
+    "name": "FUJITSU LIFEBOOK P3010 JR6 DA0JR6MB8F0",
+    "filename": "FUJITSU_LIFEBOOK_P3010_JR6_DA0JR6MB8F0.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/FUJITSU_LIFEBOOK_P3010_JR6_DA0JR6MB8F0.brd",
+    "description": "Fujitsu Laptop Motherboard (no BOM)"
    }
   
 ]
