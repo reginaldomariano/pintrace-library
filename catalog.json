@@ -148,5 +148,11 @@
     "filename": "ACER_ASPIRE_5_NB2593_PCB_MB_V2_A.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_ASPIRE_5_NB2593_PCB_MB_V2_A.cad",
     "description": "Acer Laptop Motherboard"
-   }  
+   },
+   {
+    "name": "SONY SVF153 DAHKDAMB6A0 REV 1A",
+    "filename": "SONY_SVF153_DAHKDAMB6A0_REV_1A.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SONY_SVF153_DAHKDAMB6A0_REV_1A.brd",
+    "description": "SONY Laptop Motherboard (no BOM)"
+   }
 ]
