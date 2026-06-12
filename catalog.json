@@ -364,12 +364,18 @@
     "filename": "LENOVO_A560-24IOB_NM-A403.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_A560-24IOB_NM-A403.cad",
     "description": "Lenovo Desktop Motherboard (no BOM)"
-  },
-  {
-    "name": "SAMSUNG NP270E5J BA41-02342A BA92-14647A REV 1.0",
-    "filename": "SAMSUNG_NP270E5J_BA41-02342A_BA92-14647A_LAMPARD_15HSW.cad",
-    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SAMSUNG_NP270E5J_BA41-02342A_BA92-14647A_LAMPARD_15HSW.cad",
-    "description": "Samsung Laptop Motherboard"
-  }
+    },
+    {
+      "name": "SAMSUNG NP270E5J BA41-02342A BA92-14647A REV 1.0",
+      "filename": "SAMSUNG_NP270E5J_BA41-02342A_BA92-14647A_LAMPARD_15HSW.cad",
+      "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SAMSUNG_NP270E5J_BA41-02342A_BA92-14647A_LAMPARD_15HSW.cad",
+      "description": "Samsung Laptop Motherboard"
+    },
+    {
+      "name": "SAMSUNG ATIV TAB 3 BA92-13864B BA41-02301A",
+      "filename": "Samsung_BA92-13864B_BA41-02301A.cad",
+      "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/Samsung_BA92-13864B_BA41-02301A.cad",
+      "description": "Samsung Tablet Motherboard"
+    }
     
 ]
