@@ -352,6 +352,12 @@
     "filename": "MSI_RTX_4090_Suprim_V510_2.2.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_RTX_4090_Suprim_V510_2.2.cad",
     "description": "MSI Graphics Card"
-   }  
+   },
+   {
+    "name": "ACER TRAVELMATE P2510 PEGATRON AQ5EB",
+    "filename": "ACER_TRAVELMATE_P2510_PEGATRON_AQ5EB.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_TRAVELMATE_P2510_PEGATRON_AQ5EB.cad",
+    "description": "Acer Laptop Motherboard"
+   }
   
 ]
