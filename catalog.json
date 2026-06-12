@@ -412,6 +412,12 @@
     "filename": "ASUS_A8N-SLI_DELUXE_REV_1.02A.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_A8N-SLI_DELUXE_REV_1.02A.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASROCK 960GM-VGS3 FX REV 1.03",
+    "filename": "ASROCK_960GM-VGS3_FX_REV_1.03.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_960GM-VGS3_FX_REV_1.03.fz",
+    "description": "ASRock Motherboard Desktop"
   }
   
     
