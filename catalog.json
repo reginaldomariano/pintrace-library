@@ -382,6 +382,12 @@
     "filename": "SAMSUNG_NP630Z5J_ALBERT-15.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SAMSUNG_NP630Z5J_ALBERT-15.cad",
     "description": "Samsung Laptop Motherboard"
+  },
+  {
+    "name": "SAMSUNG NP-Q330 HOUSTON13 BA41-012672",
+    "filename": "SAMSUNG_NP-Q330_HOUSTON13_BA41-012672.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SAMSUNG_NP-Q330_HOUSTON13_BA41-012672.cad",
+    "description": "Samsung Laptop Motherboard"
   }
     
 ]
