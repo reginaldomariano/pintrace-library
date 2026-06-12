@@ -496,6 +496,24 @@
     "filename": "ASUS_MAXIMUS_VII_GENE_REV_1.01A.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_MAXIMUS_VII_GENE_REV_1.01A.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ZOTAC GTX1080 8GD5X",
+    "filename": "ZOTAC_GTX1080_8GD5X_BoardView.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ZOTAC_GTX1080_8GD5X_BoardView.fz",
+    "description": "ZOTAC Graphics Card"
+  },
+  {
+    "name": "AMD RADEON HD7900 28C386PI REV 1.00X",
+    "filename": "AMD_RADEON_HD7900_28C386PI_REV_1.00X.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/AMD_RADEON_HD7900_28C386PI_REV_1.00X.fz",
+    "description": "AMD Graphics Card"
+  },
+  {
+    "name": "ASUS RAMPAGE IV GENE REV 1.00A",
+    "filename": "ASUS_RAMPAGE_IV_GENE_REV_1.00A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_RAMPAGE_IV_GENE_REV_1.00A.fz",
+    "description": "ASUS Motherboard Desktop"
   }
   
     
