@@ -514,6 +514,66 @@
     "filename": "ASUS_RAMPAGE_IV_GENE_REV_1.00A.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_RAMPAGE_IV_GENE_REV_1.00A.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ACER SPIN 5 SP513-55N MILGAUSS-TL 203022-1",
+    "filename": "ACER_SPIN_5_SP513-55N_MILGAUSS-TL_203022-1.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_SPIN_5_SP513-55N_MILGAUSS-TL_203022-1.cad",
+    "description": "Acer Laptop Motherboard"
+  },
+  {
+    "name": "LENOVO 213251-2",
+    "filename": "LENOVO_213251-2_BV.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_213251-2_BV.cad",
+    "description": "Lenovo Laptop Motherboard"
+  },
+  {
+    "name": "LENOVO ADM80 LA-C641P REV 1.0",
+    "filename": "LENOVO_ADM80_LA-C641P_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_ADM80_LA-C641P_REV_1.0.cad",
+    "description": "Lenovo Laptop Motherboard"
+  },
+  {
+    "name": "ASROCK X79 EXTREME3 REV 1.01",
+    "filename": "ASROCK_X79_EXTREME3_REV_1.01.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_X79_EXTREME3_REV_1.01.fz",
+    "description": "ASRock Motherboard Desktop"
+  },
+  {
+    "name": "ASROCK H61M-U3S3 REV 1.02",
+    "filename": "ASROCK_H61M-U3S3_REV_1.02.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_H61M-U3S3_REV_1.02.fz",
+    "description": "ASRock Motherboard Desktop"
+  },
+  {
+    "name": "ASROCK H87M REV 1.05",
+    "filename": "ASROCK_H87M_REV_1.05.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_H87M_REV_1.05.fz",
+    "description": "ASRock Motherboard Desktop"
+  },
+  {
+    "name": "ASROCK Z97 PROFESSIONAL REV 1.02",
+    "filename": "ASROCK_Z97_PROFESSIONAL_REV_1.02.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_Z97_PROFESSIONAL_REV_1.02.fz",
+    "description": "ASRock Motherboard Desktop"
+  },
+  {
+    "name": "ASUS EX-A320M-GAMING REV 1.01",
+    "filename": "ASUS_EX-A320M-GAMING_REV_1.01.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_EX-A320M-GAMING_REV_1.01.fz",
+    "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS H81M-D R2.0 REV 1.01A",
+    "filename": "ASUS_H81M-D_R2.0_REV_1.01A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_H81M-D_R2.0_REV_1.01A.fz",
+    "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS K6502VJQ REV 2.0",
+    "filename": "ASUS_K6502VJQ_REV_2.0_60NB11K0-MB1200.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_K6502VJQ_REV_2.0_60NB11K0-MB1200.cad",
+    "description": "ASUS Laptop Motherboard"
   }
   
     
