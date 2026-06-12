@@ -376,6 +376,12 @@
       "filename": "Samsung_BA92-13864B_BA41-02301A.cad",
       "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/Samsung_BA92-13864B_BA41-02301A.cad",
       "description": "Samsung Tablet Motherboard"
-    }
+    },
+  {
+    "name": "SAMSUNG NP630Z5J ALBERT-15",
+    "filename": "SAMSUNG_NP630Z5J_ALBERT-15.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SAMSUNG_NP630Z5J_ALBERT-15.cad",
+    "description": "Samsung Laptop Motherboard"
+  }
     
 ]
