@@ -359,5 +359,11 @@
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_TRAVELMATE_P2510_PEGATRON_AQ5EB.cad",
     "description": "Acer Laptop Motherboard (no BOM)"
    }
+   {
+    "name": "LENOVO A560-24IOB NM-A403",
+    "filename": "LENOVO_A560-24IOB_NM-A403.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_A560-24IOB_NM-A403.cad",
+    "description": "Lenovo Desktop Motherboard"
+  }
   
 ]
