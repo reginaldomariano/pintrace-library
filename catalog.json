@@ -400,6 +400,12 @@
     "filename": "SAMSUNG_NP910S3L_TACOMA13-SKL_BA92-15596B_BA41-02466A.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/SAMSUNG_NP910S3L_TACOMA13-SKL_BA92-15596B_BA41-02466A.cad",
     "description": "Samsung Laptop Motherboard"
+  },
+  {
+    "name": "ASROCK 970 PRO3 R2 A01",
+    "filename": "ASROCK_970_PRO3_R2_A01.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_970_PRO3_R2_A01.fz",
+    "description": "ASRock Motherboard Desktop"
   }
     
 ]
