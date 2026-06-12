@@ -298,6 +298,12 @@
     "filename": "LENOVO_THINKPAD_E14_GEN5_E16_GEN1_AMD_LCFC_KE452_KE612_NM-F351_REV_1.0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_THINKPAD_E14_GEN5_E16_GEN1_AMD_LCFC_KE452_KE612_NM-F351_REV_1.0.cad",
     "description": "Lenovo Laptop Motherboard"
+   },
+   {
+    "name": "MSI GE66 RAIDER MS-1541 MS-15411 REV 1.0",
+    "filename": "MSI_GE66_RAIDER_MS-1541_MS-15411_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GE66_RAIDER_MS-1541_MS-15411_REV_1.0.cad",
+    "description": "MSI Laptop Motherboard"
    }
   
 ]
