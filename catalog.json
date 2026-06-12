@@ -454,6 +454,12 @@
     "filename": "ASUS_SABERTOOTH_Z170_S_REV_1.01.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_SABERTOOTH_Z170_S_REV_1.01.fz",
     "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS TUF GAMING A15 FA506ICB",
+    "filename": "ASUS_TUF_GAMING_A15_FA506ICB.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_TUF_GAMING_A15_FA506ICB.fz",
+    "description": "ASUS Laptop Motherboard"
   }
   
     
