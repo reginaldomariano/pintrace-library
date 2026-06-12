@@ -436,6 +436,12 @@
     "filename": "ASUS_PH-GTX1050TI-4G_CG210PL3_REV_1.0.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_PH-GTX1050TI-4G_CG210PL3_REV_1.0.fz",
     "description": "ASUS Graphics Card"
+  },
+  {
+    "name": "ASUS K501LX REV 2.0",
+    "filename": "ASUS_K501LX_REV_2.0.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_K501LX_REV_2.0.fz",
+    "description": "ASUS Laptop Motherboard"
   }
     
 ]
