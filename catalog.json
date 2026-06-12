@@ -430,6 +430,12 @@
     "filename": "ASUS_ET1620I_REV_1.3A.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_ET1620I_REV_1.3A.fz",
     "description": "ASUS All-in-One PC Motherboard"
+  },
+  {
+    "name": "ASUS PH-GTX1050TI-4G CG210PL3 REV 1.0",
+    "filename": "ASUS_PH-GTX1050TI-4G_CG210PL3_REV_1.0.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_PH-GTX1050TI-4G_CG210PL3_REV_1.0.fz",
+    "description": "ASUS Graphics Card"
   }
     
 ]
