@@ -406,6 +406,12 @@
     "filename": "ASROCK_970_PRO3_R2_A01.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_970_PRO3_R2_A01.fz",
     "description": "ASRock Motherboard Desktop"
+  },
+  {
+    "name": "ASUS A8N-SLI DELUXE REV 1.02A",
+    "filename": "ASUS_A8N-SLI_DELUXE_REV_1.02A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_A8N-SLI_DELUXE_REV_1.02A.fz",
+    "description": "ASUS Motherboard Desktop"
   }
     
 ]
