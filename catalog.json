@@ -346,7 +346,12 @@
     "filename": "MSI_RTX4090_MS-V510_REV_2.2.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_RTX4090_MS-V510_REV_2.2.cad",
     "description": "MSI Graphics Card"
-   }
-  
+   },
+   {
+    "name": "MSI RTX 4090 SUPRIM MS-V510 REV 2.2",
+    "filename": "MSI_RTX_4090_Suprim_V510_2.2.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_RTX_4090_Suprim_V510_2.2.cad",
+    "description": "MSI Graphics Card"
+   }  
   
 ]
