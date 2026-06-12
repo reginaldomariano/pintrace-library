@@ -340,6 +340,12 @@
     "filename": "MSI_PRO_H610M-E_DDR4_MS-7D48_REV_2.2.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_PRO_H610M-E_DDR4_MS-7D48_REV_2.2.cad",
     "description": "MSI Motherboard Desktop"
+   },
+   {
+    "name": "MSI RTX4090 MS-V510 REV 2.2",
+    "filename": "MSI_RTX4090_MS-V510_REV_2.2.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_RTX4090_MS-V510_REV_2.2.cad",
+    "description": "MSI Graphics Card"
    }
   
   
