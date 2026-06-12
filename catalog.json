@@ -466,6 +466,36 @@
     "filename": "ASUS_ZENBOOK_UX425IA_HUAQIN_NB2553_REV_2.1.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_ZENBOOK_UX425IA_HUAQIN_NB2553_REV_2.1.fz",
     "description": "ASUS Laptop Motherboard"
+  },  
+  {
+    "name": "ASUS A8N-SLI DELUXE REV 1.02A",
+    "filename": "ASUS_A8N-SLI_DELUXE_REV_1.02A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_A8N-SLI_DELUXE_REV_1.02A.fz",
+    "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS ET1620I REV 1.3A",
+    "filename": "ASUS_ET1620I_REV_1.3A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_ET1620I_REV_1.3A.fz",
+    "description": "ASUS All-in-One PC Motherboard"
+  },
+  {
+    "name": "ASUS ET2700I REV 1.02G",
+    "filename": "ASUS_ET2700I_REV_1.02G.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_ET2700I_REV_1.02G.fz",
+    "description": "ASUS All-in-One PC Motherboard"
+  },
+  {
+    "name": "ASUS F1A55 REV 1.00",
+    "filename": "ASUS_F1A55_REV_1.00.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_F1A55_REV_1.00.fz",
+    "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS MAXIMUS VII GENE REV 1.01A",
+    "filename": "ASUS_MAXIMUS_VII_GENE_REV_1.01A.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_MAXIMUS_VII_GENE_REV_1.01A.fz",
+    "description": "ASUS Motherboard Desktop"
   }
   
     
