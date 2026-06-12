@@ -322,6 +322,12 @@
     "filename": "MSI_MPG_B650_EDGE_WIFI_MS-7E10_REV_1.1.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_MPG_B650_EDGE_WIFI_MS-7E10_REV_1.1.cad",
     "description": "MSI Motherboard Desktop"
+   },
+   {
+    "name": "MSI MPG B550I GAMING EDGE WIFI MS-7D45 REV 1.0",
+    "filename": "MSI_MPG_B550I_GAMING_EDGE_WIFI_MS-7D45_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_MPG_B550I_GAMING_EDGE_WIFI_MS-7D45_REV_1.0.cad",
+    "description": "MSI Motherboard Desktop"
    }
   
   
