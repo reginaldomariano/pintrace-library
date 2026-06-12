@@ -316,6 +316,13 @@
     "filename": "MSI_GEFORCE_GTX1080TI_MS-V360.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GEFORCE_GTX1080TI_MS-V360.cad",
     "description": "MSI Graphics Card (no download)"
+   },
+   {
+    "name": "MSI MPG B650 EDGE WIFI MS-7E10 REV 1.1",
+    "filename": "MSI_MPG_B650_EDGE_WIFI_MS-7E10_REV_1.1.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_MPG_B650_EDGE_WIFI_MS-7E10_REV_1.1.cad",
+    "description": "MSI Motherboard Desktop"
    }
+  
   
 ]
