@@ -483,7 +483,7 @@
     "name": "ASUS ET2700I REV 1.02G",
     "filename": "ASUS_ET2700I_REV_1.02G.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_ET2700I_REV_1.02G.fz",
-    "description": "ASUS All-in-One PC Motherboard"
+    "description": "ASUS All-in-One PC Motherboard (no BOM)"
   },
   {
     "name": "ASUS F1A55 REV 1.00",
