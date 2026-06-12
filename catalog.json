@@ -460,6 +460,12 @@
     "filename": "ASUS_TUF_GAMING_A15_FA506ICB.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_TUF_GAMING_A15_FA506ICB.fz",
     "description": "ASUS Laptop Motherboard"
+  },
+  {
+    "name": "ASUS ZENBOOK UX425IA HUAQIN NB2553 REV 2.1",
+    "filename": "ASUS_ZENBOOK_UX425IA_HUAQIN_NB2553_REV_2.1.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_ZENBOOK_UX425IA_HUAQIN_NB2553_REV_2.1.fz",
+    "description": "ASUS Laptop Motherboard"
   }
   
     
