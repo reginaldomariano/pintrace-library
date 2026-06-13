@@ -735,7 +735,7 @@
     "name": "HP H98P DAH98PMBAB0 REV B",
     "filename": "HP_H98P_DAH98PMBAB0_REV_B.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_H98P_DAH98PMBAB0_REV_B.fz",
-    "description": "HP Laptop Motherboard(re-upload))"
+    "description": "HP Laptop Motherboard(re-upload) (no BOM))"
   },
   {
     "name": "DELL LATITUDE 5580 CDM80 LA-E092P REV 1.0",
