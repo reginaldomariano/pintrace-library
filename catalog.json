@@ -742,7 +742,67 @@
     "filename": "LENOVO_LEGION_Y7000P_IRH8_LA-M542P_REV_1.0.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_LEGION_Y7000P_IRH8_LA-M542P_REV_1.0.fz",
     "description": "Lenovo Laptop Motherboard (BOM*)"
-  }   
+  },
+  {
+    "name": "HP PAVILION 14-CE QUANTA G7AL-2G DAG7ALMB8B0 REV B",
+    "filename": "HP_PAVILION_14-CE_QUANTA_G7AL-2G_DAG7ALMB8B0_REV_B.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_PAVILION_14-CE_QUANTA_G7AL-2G_DAG7ALMB8B0_REV_B.cad",
+    "description": "HP Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "HP ZBOOK 17 G5 DA0XW3MBAG0 REV G",
+    "filename": "HP_ZBOOK_17_G5_DA0XW3MBAG0_REV_G.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_ZBOOK_17_G5_DA0XW3MBAG0_REV_G.cad",
+    "description": "HP Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "HUAWEI MATEBOOK D14 DAH98MMB8D0",
+    "filename": "HUAWEI_MATEBOOK_D14_DAH98MMB8D0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HUAWEI_MATEBOOK_D14_DAH98MMB8D0.cad",
+    "description": "Huawei Laptop Motherboard (no BOM)"
+  },
+  {
+   "name": "JDC40 LA-N411P REV R10",
+   "filename": "JDC40_MB_LA-N411P_R10.cad",
+   "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/JDC40_MB_LA-N411P_R10.cad",
+   "description": "Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "LENOVO LOQ 15IAX9 JLG10 LA-N221P REV 1A",
+    "filename": "LENOVO_LOQ_15IAX9_JLG10_LA-N221P_REV_1A.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_LOQ_15IAX9_JLG10_LA-N221P_REV_1A.cad",
+    "description": "Lenovo Laptop Motherboard"
+  },
+  {
+    "name": "LENOVO IDEAPAD 1 15AMN7 COMPAL HLS1C HLS1D LA-L502P REV 1A",
+    "filename": "LENOVO_IDEAPAD_1_15AMN7_COMPAL_HLS1C_HLS1D_LA-L502P_REV_1A.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_IDEAPAD_1_15AMN7_COMPAL_HLS1C_HLS1D_LA-L502P_REV_1A.cad",
+    "description": "Lenovo Laptop Motherboard"
+  },
+  {
+    "name": "LENOVO LEGION PRO 5 16ARX8 LCFC KY585 KY586 KY587 KY588 NM-F251",
+    "filename": "LENOVO_LEGION_PRO_5_16ARX8_LCFC_KY585_KY586_KY587_KY588_NM-F251.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_LEGION_PRO_5_16ARX8_LCFC_KY585_KY586_KY587_KY588_NM-F251.cad",
+    "description": "Lenovo Laptop Motherboard"
+  },
+  {
+    "name": "MSI MS-7A82 REV 1.0",
+    "filename": "MSI_MS-7A82_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_MS-7A82_REV_1.0.cad",
+    "description": "MSI Motherboard Desktop"
+  },
+  {
+    "name": "MSI GF63 THIN MS-16R61",
+    "filename": "MSI_GF63_THIN_MS-16R61.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GF63_THIN_MS-16R61.fz",
+    "description": "MSI Laptop Motherboard"
+  },
+  {
+    "name": "MSI B560M PRO-VDH WIFI MS-7D18 REV 1.0",
+    "filename": "MSI_B560M_PRO-VDH_WIFI_MS-7D18_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_B560M_PRO-VDH_WIFI_MS-7D18_REV_1.0.cad",
+    "description": "MSI Motherboard Desktop"
+  }
   
     
 ]
