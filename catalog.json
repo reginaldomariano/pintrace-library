@@ -723,20 +723,14 @@
     "name": "HP GM5BG3E MB",
     "filename": "HP_GM5BG3E_MB.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_GM5BG3E_MB.cad",
-    "description": "HP Laptop Motherboard (no BOM 1/2)"
+    "description": "HP Laptop Motherboard (calcul error)"
   },
   {
     "name": "ASUS GRANGER 6050A2977701-MB-A01",
     "filename": "ASUS_GRANGER_6050A2977701-MB-A01.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_GRANGER_6050A2977701-MB-A01.cad",
     "description": "ASUS Laptop Motherboard (no BOM)"
-  },
-  {
-    "name": "HP H98P DAH98PMBAB0 REV B",
-    "filename": "HP_H98P_DAH98PMBAB0_REV_B.fz",
-    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_H98P_DAH98PMBAB0_REV_B.fz",
-    "description": "HP Laptop Motherboard(re-upload) (no BOM))"
-  },
+  },  
   {
     "name": "DELL LATITUDE 5580 CDM80 LA-E092P REV 1.0",
     "filename": "DELL_LATITUDE_5580_CDM80_LA-E092P_REV_1.0.cad",
@@ -748,7 +742,7 @@
     "filename": "LENOVO_LEGION_Y7000P_IRH8_LA-M542P_REV_1.0.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_LEGION_Y7000P_IRH8_LA-M542P_REV_1.0.fz",
     "description": "Lenovo Laptop Motherboard (BOM*)"
-  }  
+  }   
   
     
 ]
