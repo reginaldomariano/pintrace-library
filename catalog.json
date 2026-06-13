@@ -723,7 +723,7 @@
     "name": "HP GM5BG3E MB",
     "filename": "HP_GM5BG3E_MB.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_GM5BG3E_MB.cad",
-    "description": "HP Laptop Motherboard (calcul error)"
+    "description": "HP Laptop Motherboard (fix bug need)"
   },
   {
     "name": "ASUS GRANGER 6050A2977701-MB-A01",
@@ -747,13 +747,13 @@
     "name": "HP PAVILION 14-CE QUANTA G7AL-2G DAG7ALMB8B0 REV B",
     "filename": "HP_PAVILION_14-CE_QUANTA_G7AL-2G_DAG7ALMB8B0_REV_B.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_PAVILION_14-CE_QUANTA_G7AL-2G_DAG7ALMB8B0_REV_B.cad",
-    "description": "HP Laptop Motherboard (no BOM)"
+    "description": "HP Laptop Motherboard"
   },
   {
     "name": "HP ZBOOK 17 G5 DA0XW3MBAG0 REV G",
     "filename": "HP_ZBOOK_17_G5_DA0XW3MBAG0_REV_G.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_ZBOOK_17_G5_DA0XW3MBAG0_REV_G.cad",
-    "description": "HP Laptop Motherboard (no BOM)"
+    "description": "HP Laptop Motherboard"
   },
   {
     "name": "HUAWEI MATEBOOK D14 DAH98MMB8D0",
@@ -765,7 +765,7 @@
     "name": "DELL LATITUDE 7450 COMPAL JDC40 LA-N411P REV R10",
     "filename": "DELL_LATITUDE_7450_COMPAL_JDC40_LA-N411P_REV_R10.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_LATITUDE_7450_COMPAL_JDC40_LA-N411P_REV_R10.cad",
-    "description": "Dell Laptop Motherboard (no BOM)"
+    "description": "Dell Laptop Motherboard"
   },
   {
     "name": "LENOVO LOQ 15IAX9 JLG10 LA-N221P REV 1A",
@@ -795,7 +795,7 @@
     "name": "MSI GF63 THIN MS-16R61",
     "filename": "MSI_GF63_THIN_MS-16R61.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GF63_THIN_MS-16R61.fz",
-    "description": "MSI Laptop Motherboard"
+    "description": "MSI Laptop Motherboard(fix bug need)"
   },
   {
     "name": "MSI B560M PRO-VDH WIFI MS-7D18 REV 1.0",
