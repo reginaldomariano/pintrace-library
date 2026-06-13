@@ -675,7 +675,7 @@
     "name": "DELL LATITUDE E7240 LA-9431P R10-0516",
     "filename": "DELL_LATITUDE_E7240_LA-9431P_R10-0516.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_LATITUDE_E7240_LA-9431P_R10-0516.cad",
-    "description": "Dell Laptop Motherboard"
+    "description": "Dell Laptop Motherboard (no BOM)"
   },
   {
     "name": "DELL PRECISION 7520 LA-E311P CAP00 REV 1.0",
