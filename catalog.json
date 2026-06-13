@@ -762,10 +762,10 @@
     "description": "Huawei Laptop Motherboard (no BOM)"
   },
   {
-   "name": "JDC40 LA-N411P REV R10",
-   "filename": "JDC40_MB_LA-N411P_R10.cad",
-   "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/JDC40_MB_LA-N411P_R10.cad",
-   "description": "Laptop Motherboard (no BOM)"
+    "name": "DELL LATITUDE 7450 COMPAL JDC40 LA-N411P REV R10",
+    "filename": "DELL_LATITUDE_7450_COMPAL_JDC40_LA-N411P_REV_R10.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_LATITUDE_7450_COMPAL_JDC40_LA-N411P_REV_R10.cad",
+    "description": "Dell Laptop Motherboard (no BOM)"
   },
   {
     "name": "LENOVO LOQ 15IAX9 JLG10 LA-N221P REV 1A",
