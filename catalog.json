@@ -652,7 +652,97 @@
   "filename": "ASUS_X541NA_REV_2.1.fz",
   "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_X541NA_REV_2.1.fz",
   "description": "ASUS Laptop Motherboard"
-}
+},
+  {
+    "name": "ACER PREDATOR PH315-52 6050A3087502-MB-A03",
+    "filename": "ACER_PREDATOR_PH315-52_6050A3087502-MB-A03.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_PREDATOR_PH315-52_6050A3087502-MB-A03.cad",
+    "description": "Acer Laptop Motherboard"
+  },
+  {
+    "name": "ASROCK H97 PERFORMANCE REV 1.01",
+    "filename": "ASROCK_H97_PERFORMANCE_REV_1.01.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_H97_PERFORMANCE_REV_1.01.fz",
+    "description": "ASRock Motherboard Desktop"
+  },
+  {
+    "name": "ASUS VIVOBOOK X409DJ REV 2.0",
+    "filename": "ASUS_VIVOBOOK_X409DJ_REV_2.0.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_VIVOBOOK_X409DJ_REV_2.0.fz",
+    "description": "ASUS Laptop Motherboard"
+  },
+  {
+    "name": "DELL LATITUDE E7240 LA-9431P R10-0516",
+    "filename": "DELL_LATITUDE_E7240_LA-9431P_R10-0516.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_LATITUDE_E7240_LA-9431P_R10-0516.cad",
+    "description": "Dell Laptop Motherboard"
+  },
+  {
+    "name": "DELL PRECISION 7520 LA-E311P CAP00 REV 1.0",
+    "filename": "DELL_PRECISION_7520_LA-E311P_CAP00_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_PRECISION_7520_LA-E311P_CAP00_REV_1.0.cad",
+    "description": "Dell Laptop Motherboard"
+  },  
+  {
+    "name": "HP DAH98MMB8D0 REV D",
+    "filename": "HP_DAH98MMB8D0_REV_D.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_DAH98MMB8D0_REV_D.cad",
+    "description": "HP Laptop Motherboard"
+  },
+  {
+    "name": "DELL LATITUDE 5289 CAZ40 LA-E111P REV 1.0",
+    "filename": "DELL_LATITUDE_5289_CAZ40_LA-E111P_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_LATITUDE_5289_CAZ40_LA-E111P_REV_1.0.cad",
+    "description": "Dell Laptop Motherboard"
+  },
+  {
+    "name": "DELL PRECISION 7730 DAP20 LA-F601P REV 1.0",
+    "filename": "DELL_PRECISION_7730_DAP20_LA-F601P_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_PRECISION_7730_DAP20_LA-F601P_REV_1.0.cad",
+    "description": "Dell Laptop Motherboard"
+  },
+  {
+    "name": "ASUS EX-B460M-V5 REV 1.02",
+    "filename": "ASUS_EX-B460M-V5_REV_1.02.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_EX-B460M-V5_REV_1.02.cad",
+    "description": "ASUS Motherboard Desktop"
+  },
+  {
+    "name": "ASUS FA506NF FA506NC REV 2.0",
+    "filename": "ASUS_FA506NF_FA506NC_REV_2.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_FA506NF_FA506NC_REV_2.0.cad",
+    "description": "ASUS Laptop Motherboard"
+  },
+  {
+    "name": "ASUS GL502VS REV 2.1",
+    "filename": "ASUS_GL502VS_REV_2.1.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_GL502VS_REV_2.1.cad",
+    "description": "ASUS Laptop Motherboard"
+  },
+  {
+    "name": "HP GM5BG3E MB",
+    "filename": "HP_GM5BG3E_MB.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_GM5BG3E_MB.cad",
+    "description": "HP Laptop Motherboard"
+  },
+  {
+    "name": "ASUS GRANGER 6050A2977701-MB-A01",
+    "filename": "ASUS_GRANGER_6050A2977701-MB-A01.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_GRANGER_6050A2977701-MB-A01.cad",
+    "description": "ASUS Laptop Motherboard"
+  },
+  {
+    "name": "HP H98P DAH98PMBAB0 REV B",
+    "filename": "HP_H98P_DAH98PMBAB0_REV_B.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_H98P_DAH98PMBAB0_REV_B.fz",
+    "description": "HP Laptop Motherboard"
+  },
+  {
+    "name": "DELL LATITUDE 5580 CDM80 LA-E092P REV 1.0",
+    "filename": "DELL_LATITUDE_5580_CDM80_LA-E092P_REV_1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_LATITUDE_5580_CDM80_LA-E092P_REV_1.0.cad",
+    "description": "Dell Laptop Motherboard"
+  }
   
   
     
