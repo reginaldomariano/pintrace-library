@@ -802,6 +802,12 @@
     "filename": "MSI_B560M_PRO-VDH_WIFI_MS-7D18_REV_1.0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_B560M_PRO-VDH_WIFI_MS-7D18_REV_1.0.cad",
     "description": "MSI Motherboard Desktop"
+  },
+  {
+    "name": "LENOVO IDEAPAD FLEX5 14ALC05 203021-1",
+    "filename": "LENOVO_IDEAPAD_FLEX5_14ALC05_203021-1.brd",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_IDEAPAD_FLEX5_14ALC05_203021-1.brd",
+    "description": "Lenovo Laptop Motherboard (no BOM)"
   }
   
     
