@@ -814,6 +814,12 @@
     "filename": "MSI_GF63_THIN_MS-16R61.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GF63_THIN_MS-16R61.fz",
     "description": "MSI Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "HP H98P DAH98PMBAB0 REV B",
+    "filename": "HP_H98P_DAH98PMBAB0_REV_B.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_H98P_DAH98PMBAB0_REV_B.fz",
+    "description": "HP Laptop Motherboard (no BOM)"
   }
   
     
