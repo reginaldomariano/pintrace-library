@@ -808,6 +808,12 @@
     "filename": "LENOVO_IDEAPAD_FLEX5_14ALC05_203021-1.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_IDEAPAD_FLEX5_14ALC05_203021-1.brd",
     "description": "Lenovo Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "MSI GF63 THIN MS-16R61",
+    "filename": "MSI_GF63_THIN_MS-16R61.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GF63_THIN_MS-16R61.fz",
+    "description": "MSI Laptop Motherboard (no BOM)"
   }
   
     
