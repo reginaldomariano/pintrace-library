@@ -820,6 +820,12 @@
     "filename": "HP_H98P_DAH98PMBAB0_REV_B.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_H98P_DAH98PMBAB0_REV_B.fz",
     "description": "HP Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "LENOVO LEGION Y7000P IRH8 ILG10 LA-M542P REV 1.0",
+    "filename": "LENOVO_LEGION_Y7000P_IRH8_ILG10_LA-M542P_REV_1.0.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_LEGION_Y7000P_IRH8_ILG10_LA-M542P_REV_1.0.fz",
+    "description": "Lenovo Laptop Motherboard"
   }
   
     
