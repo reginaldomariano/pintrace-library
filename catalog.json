@@ -123,13 +123,13 @@
     "name": "MSI GF75 THIN MS-17F61 REV 1.0",
     "filename": "MSI_MS-17F61_r1.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_MS-17F61_r1.cad",
-    "description": "MSI Laptop Motherboard (parser error - to be fixed)"
+    "description": "MSI Laptop Motherboard (parser error)"
   },
   {
     "name": "MSI GS75 STEALTH MS-17G31 r1.0",
     "filename": "MSI_GS75_STEALTH_MS-17G31_r1.0.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GS75_STEALTH_MS-17G31_r1.0.cad",
-    "description": "MSI Laptop Motherboard (BOM parse error)"
+    "description": "MSI Laptop Motherboard (Incomplete BOM)"
   },
    {
     "name": "MSI Z97 GUARD-PRO MS-7923 REV 1.0",
