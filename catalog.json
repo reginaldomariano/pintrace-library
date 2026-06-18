@@ -741,7 +741,7 @@
     "name": "LENOVO LEGION Y7000P IRH8 LA-M542P REV 1.0",
     "filename": "LENOVO_LEGION_Y7000P_IRH8_LA-M542P_REV_1.0.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_LEGION_Y7000P_IRH8_LA-M542P_REV_1.0.fz",
-    "description": "Lenovo Laptop Motherboard (BOM parse error)"
+    "description": "Lenovo Laptop Motherboard "
   },
   {
     "name": "HP PAVILION 14-CE QUANTA G7AL-2G DAG7ALMB8B0 REV B",
