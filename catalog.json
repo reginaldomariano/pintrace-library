@@ -795,7 +795,7 @@
     "name": "MSI GF63 THIN MS-16R61",
     "filename": "MSI_GF63_THIN_MS-16R61.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GF63_THIN_MS-16R61.fz",
-    "description": "MSI Laptop Motherboard(fix bug need)"
+    "description": "MSI Laptop Motherboard(incomplete BOM - missing resistor values)"
   },
   {
     "name": "MSI B560M PRO-VDH WIFI MS-7D18 REV 1.0",
@@ -808,13 +808,7 @@
     "filename": "LENOVO_IDEAPAD_FLEX5_14ALC05_203021-1.brd",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_IDEAPAD_FLEX5_14ALC05_203021-1.brd",
     "description": "Lenovo Laptop Motherboard (no BOM)"
-  },
-  {
-    "name": "MSI GF63 THIN MS-16R61",
-    "filename": "MSI_GF63_THIN_MS-16R61.fz",
-    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GF63_THIN_MS-16R61.fz",
-    "description": "MSI Laptop Motherboard (no BOM)"
-  },
+  },  
   {
     "name": "HP H98P DAH98PMBAB0 REV B",
     "filename": "HP_H98P_DAH98PMBAB0_REV_B.fz",
