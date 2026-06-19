@@ -832,6 +832,12 @@
     "filename": "ASUS_G750JW_REV_2.0.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_G750JW_REV_2.0.fz",
     "description": "ASUS Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "DELL INSPIRON 5430 5630 213251-2",
+    "filename": "213251-2_BV_CAD.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/213251-2_BV_CAD.cad",
+    "description": "Dell Laptop Motherboard (no BOM)"
   }
   
     
