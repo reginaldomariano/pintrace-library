@@ -835,8 +835,8 @@
   },
   {
     "name": "DELL INSPIRON 5430 5630 213251-2",
-    "filename": "DELL_213251-2_BV_CAD.cad",
-    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_213251-2_BV_CAD.cad",
+    "filename": "DELL_213251-2_BV.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_213251-2_BV.cad",
     "description": "Dell Laptop Motherboard"
   }
   
