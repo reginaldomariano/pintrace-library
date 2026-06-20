@@ -850,6 +850,12 @@
     "filename": "ASUS_X409MA_REV_2.0.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_X409MA_REV_2.0.fz",
     "description": "ASUS Laptop Motherboard"
+  },
+  {
+    "name": "ASUS EXPERTBOOK B1 B1402CBA B1502CBA",
+    "filename": "ASUS_B1402CBA_B1502CBA.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_B1402CBA_B1502CBA.cad",
+    "description": "ASUS Laptop Motherboard"
   }
   
     
