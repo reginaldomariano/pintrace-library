@@ -862,6 +862,12 @@
     "filename": "HP_ZBOOK_15_G3_LA-C381P.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/HP_ZBOOK_15_G3_LA-C381P.cad",
     "description": "HP Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "LENOVO IDEAPAD GAMING 3 15ARH7 HLG50 LA-M082P REV 1A",
+    "filename": "LENOVO_IDEAPAD_GAMING_3_15ARH7_HLG50_LA-M082P_REV_1A.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_IDEAPAD_GAMING_3_15ARH7_HLG50_LA-M082P_REV_1A.cad",
+    "description": "Lenovo Laptop Motherboard"
   }
   
     
