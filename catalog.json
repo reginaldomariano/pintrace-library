@@ -520,13 +520,7 @@
     "filename": "ACER_SPIN_5_SP513-55N_MILGAUSS-TL_203022-1.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ACER_SPIN_5_SP513-55N_MILGAUSS-TL_203022-1.cad",
     "description": "Acer Laptop Motherboard (no BOM)"
-  },
-  {
-    "name": "LENOVO 213251-2",
-    "filename": "LENOVO_213251-2_BV.cad",
-    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/LENOVO_213251-2_BV.cad",
-    "description": "Lenovo Laptop Motherboard"
-  },
+  },  
   {
     "name": "LENOVO ADM80 LA-C641P REV 1.0",
     "filename": "LENOVO_ADM80_LA-C641P_REV_1.0.cad",
