@@ -832,6 +832,12 @@
     "filename": "DELL_213251-2_BV.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_213251-2_BV.cad",
     "description": "Dell Laptop Motherboard"
+  },
+  {
+    "name": "ASUS STRIX R9 380 OC 2GD5",
+    "filename": "ASUS_STRIX-R9_380-OC-2GD5_C766PI2_1.01X.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_STRIX-R9_380-OC-2GD5_C766PI2_1.01X.fz",
+    "description": "ASUS Graphics Card"
   }
   
     
