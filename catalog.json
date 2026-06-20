@@ -844,7 +844,13 @@
     "filename": "ASUS_U47VC_REV_2.1.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_U47VC_REV_2.1.fz",
     "description": "ASUS Laptop Motherboard"
-  }  
+  },
+  {
+    "name": "ASUS X409MA REV 2.0",
+    "filename": "ASUS_X409MA_REV_2.0.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_X409MA_REV_2.0.fz",
+    "description": "ASUS Laptop Motherboard"
+  }
   
     
 ]
