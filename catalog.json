@@ -880,6 +880,12 @@
     "filename": "MSI_GS66_STEALTH_10SF_MS-16V11.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_GS66_STEALTH_10SF_MS-16V11.cad",
     "description": "MSI Laptop Motherboard (no BOM)"
+  },
+  {
+    "name": "ASUS Z97-PRO REV 1.01B",
+    "filename": "ASUS_Z97-PRO_REV_1.01B.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASUS_Z97-PRO_REV_1.01B.fz",
+    "description": "ASUS Motherboard Desktop"
   }
     
 ]
