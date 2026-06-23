@@ -888,9 +888,9 @@
     "description": "ASUS Motherboard Desktop"
   },
   {
-    "name": "DELL OPTIPLEX 3080 18463-1",
-    "filename": "DELL_OPTIPLEX_3080_18463-1.cad",
-    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_OPTIPLEX_3080_18463-1.cad",
+    "name": "DELL OPTIPLEX 3080 TOWER 18463-1",
+    "filename": "DELL_OPTIPLEX_3080_TOWER_18463-1.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_OPTIPLEX_3080_TOWER_18463-1.cad",
     "description": "Dell Desktop Motherboard"
   }
     
