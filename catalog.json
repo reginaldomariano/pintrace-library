@@ -892,6 +892,12 @@
     "filename": "DELL_OPTIPLEX_3080_TOWER_18463-1.cad",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/DELL_OPTIPLEX_3080_TOWER_18463-1.cad",
     "description": "Dell Desktop Motherboard"
+  },
+  {
+    "name": "ASROCK B450M PRO4-F REV 1.00",
+    "filename": "ASROCK_B450M_PRO4-F_REV1.fz",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_B450M_PRO4-F_REV1.fz",
+    "description": "ASRock Motherboard Desktop"
   }
     
 ]
