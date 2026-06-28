@@ -898,6 +898,12 @@
     "filename": "ASROCK_B450M_PRO4-F_REV1.fz",
     "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/ASROCK_B450M_PRO4-F_REV1.fz",
     "description": "ASRock Motherboard Desktop"
-  }
+  },
+  {
+    "name": "MSI B560M PRO-VDH WIFI MS-7D18 Rev1.0",
+    "filename": "MSI_B560M_PRO-VDH_WIFI_MS-7D18_Rev1.0.cad",
+    "url": "https://raw.githubusercontent.com/reginaldomariano/pintrace-library/main/boards/MSI_B560M_PRO-VDH_WIFI_MS-7D18_Rev1.0.cad",
+    "description": "MSI B560M PRO-VDH WIFI Motherboard"
+}
     
 ]
